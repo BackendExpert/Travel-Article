@@ -1,11 +1,16 @@
 # About My Traveling
 
 
-# Article Writer
+# Article Writers
  
  <b>JehanKandy (Writer/Owner)</b>
  
   - [JehanKandy](https://github.com/JehanKandy)
+
+<b>Leslie Kumara (Writer)</b>
+ 
+  - [Leslie Kumara](https://www.linkedin.com/in/leslie-k-98a32827/)
+
 
 
 
